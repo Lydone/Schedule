@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
                     text += (bus + ";" + ' ' + date + '\n');
                     editText.setText(null);
                     textView.setText(text);
-                    // smth for commit
+                    // smth for commit [x2]
 
                 }
                 return false;
